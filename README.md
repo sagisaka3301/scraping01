@@ -1,2 +1,2 @@
-# python
-pythonコード公開用リポジトリ
+# scraping01
+webサイトからスクレイピングしたデータをExcelに流すプログラム
