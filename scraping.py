@@ -55,8 +55,8 @@ if os.path.exists(now_path + chrome_d) == True:
         print('Chromedriverのバージョンが使用中のChromeバージョンと異なっている可能性があります。')
         sys.exit()
 else:
-    pass
     print('Chromedriverがインストールされていません。')
+    pass   
 
 browser.get(web_link)
 time.sleep(3)
